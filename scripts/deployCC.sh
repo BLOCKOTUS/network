@@ -342,7 +342,7 @@ chaincodeQuery() {
 packageChaincode 1
 
 ## Install chaincode on peer0.org1 and peer0.org2
-echo "Installing chaincode on peer0.org1..." --peerAddresses localhost:7051 --tlsRootCertFiles /home/dani/Dev/blockotus/network/organizations/peerOrganizations/org1.example.com/peers/peer0.org1.example.com/tls/ca.crt 
+echo "Installing chaincode on peer0.org1..." 
 installChaincode 1
 echo "Install chaincode on peer0.org2..."
 installChaincode 2
