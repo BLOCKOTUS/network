@@ -12,6 +12,7 @@ organizations/ordererOrganizations/*
 organizations/peerOrganizations/*
 system-genesis-block/*
 log.txt
+did.tar.gz
 identity.tar.gz
 user.tar.gz
 job.tar.gz
