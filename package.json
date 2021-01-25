@@ -1,0 +1,19 @@
+{
+  "name": "network",
+  "version": "0.2.5-alpha",
+  "description": "## Abstract",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BLOCKOTUS/network.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BLOCKOTUS/network/issues"
+  },
+  "homepage": "https://github.com/BLOCKOTUS/network#readme"
+}
