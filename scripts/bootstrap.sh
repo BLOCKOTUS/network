@@ -6,7 +6,7 @@
 #
 
 # if version not passed in, default to latest released version
-VERSION=2.3.0
+VERSION=2.3.1
 # if ca version not passed in, default to latest released version
 CA_VERSION=1.4.9
 ARCH=$(echo "$(uname -s|tr '[:upper:]' '[:lower:]'|sed 's/mingw64_nt.*/windows/')-$(uname -m | sed 's/x86_64/amd64/g')")
